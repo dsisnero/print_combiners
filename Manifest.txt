@@ -1,0 +1,9 @@
+.autotest
+.rspec
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+lib/print_combiners.rb
+spec/spec_helper.rb
+spec/print_combiners_spec.rb
